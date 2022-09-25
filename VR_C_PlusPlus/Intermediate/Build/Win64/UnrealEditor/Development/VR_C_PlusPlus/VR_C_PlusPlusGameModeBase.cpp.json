@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\vr_cplusplus\\vr_c_plusplus\\source\\vr_c_plusplus\\vr_c_plusplusgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\vr_c_pluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\unrealeditor\\development\\vr_c_plusplus\\definitions.vr_c_plusplus.h",
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\source\\vr_c_plusplus\\vr_c_plusplusgamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_c_plusplus\\vr_c_plusplusgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

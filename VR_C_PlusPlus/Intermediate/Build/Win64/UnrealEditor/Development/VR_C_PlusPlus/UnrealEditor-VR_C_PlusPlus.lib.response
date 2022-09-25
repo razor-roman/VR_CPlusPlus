@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VR_C_PlusPlus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\VR_C_PlusPlusEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\CharacterActor.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\VR_C_PlusPlus.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\VR_C_PlusPlusGameModeBase.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\CharacterActor.gen.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\VR_C_PlusPlus.init.gen.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\VR_C_PlusPlusGameModeBase.gen.cpp.obj"
+"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\Default.rc2.res"
+/OUT:"G:\Git\VR_CPlusPlus\VR_C_PlusPlus\Intermediate\Build\Win64\UnrealEditor\Development\VR_C_PlusPlus\UnrealEditor-VR_C_PlusPlus.lib"

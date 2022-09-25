@@ -1,0 +1,32 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\git\\vr_cplusplus\\vr_c_plusplus\\source\\vr_c_plusplus\\characteractor.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\vr_c_pluspluseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\unrealeditor\\development\\vr_c_plusplus\\definitions.vr_c_plusplus.h",
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\source\\vr_c_plusplus\\characteractor.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\motioncontrollercomponent.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\sceneviewextension.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\public\\sceneviewextensioncontext.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sceneviewextensioncontext.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\iidentifiablexrdevice.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\iidentifiablexrdevice.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\motioncontrollercomponent.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "e:\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "e:\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "g:\\git\\vr_cplusplus\\vr_c_plusplus\\intermediate\\build\\win64\\unrealeditor\\inc\\vr_c_plusplus\\characteractor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

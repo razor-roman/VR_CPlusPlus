@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VR_C_PlusPlus",
+			"Path": "G:\\Git\\VR_CPlusPlus\\VR_C_PlusPlus\\Source\\VR_C_PlusPlus.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VR_C_PlusPlusEditor",
+			"Path": "G:\\Git\\VR_CPlusPlus\\VR_C_PlusPlus\\Source\\VR_C_PlusPlusEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

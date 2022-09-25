@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\Git\\VR_CPlusPlus\\VR_C_PlusPlus\\Source\\VR_C_PlusPlus\\VR_C_PlusPlus.Build.cs",
+		"G:\\Git\\VR_CPlusPlus\\VR_C_PlusPlus\\Source\\VR_C_PlusPlus.Target.cs",
+		"G:\\Git\\VR_CPlusPlus\\VR_C_PlusPlus\\Source\\VR_C_PlusPlusEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
